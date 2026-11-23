@@ -87,7 +87,7 @@ The program can then be run using:
 
 
 ##Test Cases : 
-![alt text][(WhatsApp Image 2026-11-23 at 9.44.41 AM.jpeg)
+![alt text][(1.PNG)
 
 
 

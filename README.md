@@ -1,4 +1,4 @@
-# PF_project
+<img width="381" height="190" alt="image" src="https://github.com/user-attachments/assets/02dd5b00-e84d-4ed3-a955-97403912edd8" /># PF_project
 
 
 # Battleship Game
@@ -87,8 +87,14 @@ The program can then be run using:
 
 
 ##Test Cases : 
+
+Test case 1 :   Case : Placing aircraft carrier  on row B and column 4  Expected output:  5 ' S ' starting from column 4 and ending at column 8. Actual output:   
 ![Image 1](1.PNG)
+
+Test case 2 :  Case: missing opponent ship  Expected output: a yellow ‘ O ‘ to signal a miss.  Actual output:  
 ![Image 2](2.PNG)
+
+Test case 3:  Case: hitting enemy ship  Expected output: a red  'X' to signal a hit.  Actual output
 ![Image 3](3.PNG)
 
 

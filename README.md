@@ -1,4 +1,4 @@
-<img width="381" height="190" alt="image" src="https://github.com/user-attachments/assets/02dd5b00-e84d-4ed3-a955-97403912edd8" /># PF_project
+# PF_project
 
 
 # Battleship Game

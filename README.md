@@ -87,9 +87,9 @@ The program can then be run using:
 
 
 ##Test Cases : 
-![Image 1](1.png)
-![Image 2](2.png)
-![Image 3](3.png)
+![Image 1](1.PNG)
+![Image 2](2.PNG)
+![Image 3](3.PNG)
 
 
 
